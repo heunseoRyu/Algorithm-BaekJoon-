@@ -4,7 +4,7 @@ def rev(c):
         nc += c[i]
     return nc
 
-
+# 글자 뒤집기 야발 다른거 개어렵노
 while True:
     c = input()
     if c=='0':

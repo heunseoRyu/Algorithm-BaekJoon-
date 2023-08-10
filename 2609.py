@@ -12,3 +12,4 @@ for i in range(b, s * b + 1, b): # b씩 증가하면 b의 배수가 되고
     if i % s == 0:#b의 배수가 s의 배수인지
         print(i)
         break
+    
